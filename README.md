@@ -6,6 +6,7 @@
 - Kotlin과 관련된 부분은 [여기](https://github.com/Seung72/Kotlin_Study)에서 볼 수 있습니다.
 
 # [Jetpack](https://developer.android.com/jetpack)
+
 ![Jetpack](https://user-images.githubusercontent.com/79628706/211202057-2ecd7660-e50d-439a-9a90-2b5e78df586e.png)
 
 - 개발자가 중요한 코드에 집중할 수 있도록 여러 편의성을 제공해주는 라이브러리 묶음입니다.
@@ -22,7 +23,8 @@
 <summary>바로가기 목록</summary>
 <div markdown="1">
 <ol>
-<li><a href="https://github.com/Seung72/Kotlin_Study/blob/main/contents/%EB%AC%B8%EB%B2%95.md">Column, Row, Text</a></li>
+<li><a href="https://github.com/Seung72/Jetpack_Compose_Study/blob/main/contents/Column_Row_Text.md">Column, Row, Text</a></li>
+<li><a href="">Composable, Preview</a></li>
 </ol>
 </div>
 </details>
