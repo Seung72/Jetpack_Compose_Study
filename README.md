@@ -24,7 +24,9 @@
 <div markdown="1">
 <ol>
 <li><a href="https://github.com/Seung72/Jetpack_Compose_Study/blob/main/contents/Column_Row_Text.md">Column, Row, Text</a></li>
-<li><a href="">Composable, Preview</a></li>
+<li><a href="https://github.com/Seung72/Jetpack_Compose_Study/blob/main/contents/Composable_Preview.md">Composable, Preview</a></li>
+<li><a href="https://github.com/Seung72/Jetpack_Compose_Study/blob/main/contents/Box.md">Box</a></li>
+<li><a href="">List, LazyColumn</a></li>
 </ol>
 </div>
 </details>
